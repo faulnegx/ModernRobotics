@@ -1,0 +1,3 @@
+Run newIKInBodyIterates.py as a python script
+In MacOS or Linux, it is likely 
+$ python2 newIKInBodyIterates.py
